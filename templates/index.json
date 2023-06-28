@@ -1,5 +1,42 @@
 {
   "sections": {
+    "b1a23e50-07e8-414e-8c0f-d6d981f8d87b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19704890065206__b1a23e50-07e8-414e-8c0f-d6d981f8d87b-16879443654e07b2cf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Effortless Elegance: Embrace Simple Aesthetic Clothing for Timeless Style",
+            "heading_size": "h2"
+          }
+        },
+        "template--19704890065206__b1a23e50-07e8-414e-8c0f-d6d981f8d87b-16879443654e07b2cf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether you're looking for an outfit for a casual day out or a stylish ensemble for a special occasion, our store has you covered. Explore our thoughtfully curated categories and find the perfect pieces to create your signature aesthetic. Our collection embraces neutral color palettes, understated patterns, and classic silhouettes, ensuring that your style remains timeless and effortlessly elegant.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--19704890065206__b1a23e50-07e8-414e-8c0f-d6d981f8d87b-16879443654e07b2cf-0",
+        "template--19704890065206__b1a23e50-07e8-414e-8c0f-d6d981f8d87b-16879443654e07b2cf-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/aesthetic-skater-boy-casual-outfit-e2tn7z4t1juedcgd.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -69,6 +106,7 @@
     }
   },
   "order": [
+    "b1a23e50-07e8-414e-8c0f-d6d981f8d87b",
     "featured-collection",
     "a30fb16d-00e7-465b-9943-79eb6908110d"
   ]
