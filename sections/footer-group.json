@@ -71,10 +71,19 @@
           "settings": {
             "show_social": true
           }
+        },
+        "85947d56-03cb-4362-b3c3-3be3b1f540e1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ali-ghafouri-RxBnnZ2vxZc-unsplash.jpg",
+            "image_width": 380,
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "a0a87b8c-2085-41e4-8a0d-a5b6898a3637"
+        "a0a87b8c-2085-41e4-8a0d-a5b6898a3637",
+        "85947d56-03cb-4362-b3c3-3be3b1f540e1"
       ],
       "settings": {
         "color_scheme": "accent-1",
