@@ -6,9 +6,118 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "3fce46e6-283e-4260-9253-0c829b68f8c3": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19704890327350__3fce46e6-283e-4260-9253-0c829b68f8c3-168795380463b8ea0e-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bailey-alexander-I6zJ-SYLJYY-unsplash.jpg",
+            "heading": "<strong>RIZZ UP<\/strong>",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--19704890327350__3fce46e6-283e-4260-9253-0c829b68f8c3-168795380463b8ea0e-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/matej-borovsky-75iq9ooV_7Y-unsplash.jpg",
+            "heading": "<strong>DRIP OUT<\/strong>",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "7e79d328-e27a-426c-a2fb-6634e2ddab1d": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iz-zy-oM4XnSUcpz4-unsplash.jpg",
+            "heading": "<strong>Unleash Your Style<\/strong>",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19704890327350__3fce46e6-283e-4260-9253-0c829b68f8c3-168795380463b8ea0e-0",
+        "template--19704890327350__3fce46e6-283e-4260-9253-0c829b68f8c3-168795380463b8ea0e-1",
+        "7e79d328-e27a-426c-a2fb-6634e2ddab1d"
+      ],
+      "custom_css": [
+        ".color-background-1 {background-color: transparent;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "72c95036-645c-41fc-ba52-98ebe9bef535": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19704890327350__72c95036-645c-41fc-ba52-98ebe9bef535-1687953650708be937-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Essence Apparels",
+            "heading_size": "h1"
+          }
+        },
+        "template--19704890327350__72c95036-645c-41fc-ba52-98ebe9bef535-1687953650708be937-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Essence Apparels, we are passionate about men's fashion and believe that clothing is not just a means to cover oneself but a powerful expression of individuality and style. We specialize in providing aesthetic and fashionable clothing that embodies the essence of contemporary trends, elevating your wardrobe to new heights.<\/p><p>Our Philosophy<\/p><p>At the core of Essence Apparels is the philosophy of celebrating uniqueness and embracing the power of fashion as a form of self-expression. We believe that every man has his own distinct style, and our mission is to provide a platform where they can discover and enhance their personal aesthetic.<\/p><p>Fashionable Aesthetics<\/p><p>Our clothing collections are carefully curated to reflect the latest fashion trends while maintaining a timeless appeal. We understand the importance of quality craftsmanship and attention to detail, which is why we work closely with skilled designers and artisans to create pieces that exude elegance and sophistication.<\/p><p>From tailored suits and shirts to casual wear and accessories, our range of offerings is designed to cater to every occasion and preference. Whether you're attending a formal event, exploring the city streets, or simply looking for a statement piece, Essence Apparels has something for every style-conscious man.<\/p><p>Quality and Comfort<\/p><p>At Essence Apparels, we understand that fashion is not just about looking good, but also feeling confident and comfortable. That's why we place a strong emphasis on using premium materials and employing meticulous craftsmanship to ensure our garments are not only visually appealing but also comfortable to wear throughout the day.<\/p><p>Customer Experience<\/p><p>We believe that every customer deserves an exceptional shopping experience, and we strive to provide just that. Our team of dedicated professionals is committed to assisting you in finding the perfect pieces that align with your personal style and preferences. Whether you need guidance on sizing, styling tips, or have any other inquiries, our friendly staff is always here to help.<\/p><p>Join the Essence Apparels Community<\/p><p>At Essence Apparels, we aspire to create a community of fashion-forward individuals who appreciate the art of dressing well. By joining us, you become part of a movement that celebrates self-expression, confidence, and the power of fashion.<\/p><p>We invite you to explore our collections and discover the essence of your style with Essence Apparels. Elevate your wardrobe and make a lasting impression with our aesthetic and fashionable clothing that sets you apart from the crowd.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19704890327350__72c95036-645c-41fc-ba52-98ebe9bef535-1687953650708be937-0",
+        "template--19704890327350__72c95036-645c-41fc-ba52-98ebe9bef535-1687953650708be937-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "3fce46e6-283e-4260-9253-0c829b68f8c3",
+    "72c95036-645c-41fc-ba52-98ebe9bef535"
   ]
 }
