@@ -16,11 +16,22 @@
             "text": "<p>Whether you're looking for an outfit for a casual day out or a stylish ensemble for a special occasion, our store has you covered. Explore our thoughtfully curated categories and find the perfect pieces to create your signature aesthetic. Our collection embraces neutral color palettes, understated patterns, and classic silhouettes, ensuring that your style remains timeless and effortlessly elegant.<\/p>",
             "text_style": "body"
           }
+        },
+        "4a8d60f8-3565-4403-8bdf-0358edb9114e": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all"
+          }
         }
       },
       "block_order": [
         "template--19704890065206__b1a23e50-07e8-414e-8c0f-d6d981f8d87b-16879443654e07b2cf-0",
-        "template--19704890065206__b1a23e50-07e8-414e-8c0f-d6d981f8d87b-16879443654e07b2cf-1"
+        "template--19704890065206__b1a23e50-07e8-414e-8c0f-d6d981f8d87b-16879443654e07b2cf-1",
+        "4a8d60f8-3565-4403-8bdf-0358edb9114e"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/fabio-jock-AhIys6w59HA-unsplash_2.jpg",
@@ -30,8 +41,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
+        "color_scheme": "accent-1",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
