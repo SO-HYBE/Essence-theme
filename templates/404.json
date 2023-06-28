@@ -2,6 +2,10 @@
   "sections": {
     "main": {
       "type": "main-404",
+      "custom_css": [
+        ".button{background-color: white; color: black;}",
+        ".template-404{font-size: 4rem;}"
+      ],
       "settings": {
       }
     }
