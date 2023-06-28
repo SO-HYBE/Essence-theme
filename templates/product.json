@@ -31,6 +31,14 @@
           "settings": {
           }
         },
+        "d88d0856-e3bf-4003-9529-0e1095a18822": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": true
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -56,6 +64,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "d88d0856-e3bf-4003-9529-0e1095a18822",
         "buy_buttons",
         "description",
         "share"
