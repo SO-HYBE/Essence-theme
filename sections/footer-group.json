@@ -60,17 +60,28 @@
         "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 36,
-        "padding_bottom": 44
+        "padding_bottom": 100
       }
     },
     "footer": {
       "type": "footer",
+      "blocks": {
+        "a0a87b8c-2085-41e4-8a0d-a5b6898a3637": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "a0a87b8c-2085-41e4-8a0d-a5b6898a3637"
+      ],
       "settings": {
         "color_scheme": "accent-1",
         "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,
-        "show_social": true,
+        "show_social": false,
         "enable_country_selector": true,
         "enable_language_selector": true,
         "payment_enable": true,
