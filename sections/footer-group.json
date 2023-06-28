@@ -2,6 +2,33 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "168795944286d97832": {
+      "type": "apps",
+      "blocks": {
+        "70c583a6-9dd5-44a7-9466-804a1d19f573": {
+          "type": "shopify:\/\/apps\/simple-marquee\/blocks\/marquee\/1c87af44-fdf4-422c-b308-97ab9586a4c4",
+          "settings": {
+            "text": "Essence Apparels",
+            "color_scheme": "accent-1",
+            "height": 150,
+            "style": "caption-with-letter-spacing",
+            "size": "large",
+            "duration": 90,
+            "gap": 350,
+            "stop_on_hover": true
+          }
+        }
+      },
+      "block_order": [
+        "70c583a6-9dd5-44a7-9466-804a1d19f573"
+      ],
+      "custom_css": [
+        ".caption-with-letter-spacing--large {font-size: 120px;}"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "newsletter": {
       "type": "newsletter",
       "blocks": {
@@ -55,6 +82,7 @@
     }
   },
   "order": [
+    "168795944286d97832",
     "newsletter",
     "footer"
   ]
