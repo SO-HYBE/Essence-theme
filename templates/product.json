@@ -69,6 +69,9 @@
         "description",
         "share"
       ],
+      "custom_css": [
+        ".shopify-payment-button__button {background-color: white; color: black;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "media_size": "medium",
@@ -76,8 +79,8 @@
         "media_fit": "contain",
         "gallery_layout": "stacked",
         "media_position": "left",
-        "image_zoom": "lightbox",
-        "mobile_thumbnails": "hide",
+        "image_zoom": "hover",
+        "mobile_thumbnails": "show",
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,

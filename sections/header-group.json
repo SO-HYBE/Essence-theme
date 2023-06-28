@@ -10,7 +10,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-
+        ".menu-drawer__submenu {background-color: black;}"
       ],
       "settings": {
         "logo_position": "top-center",

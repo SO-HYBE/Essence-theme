@@ -2,6 +2,9 @@
   "sections": {
     "main-cart-items": {
       "type": "main-cart-items",
+      "custom_css": [
+
+      ],
       "settings": {
         "padding_top": 0,
         "padding_bottom": 0
@@ -24,6 +27,9 @@
       "block_order": [
         "subtotal",
         "buttons"
+      ],
+      "custom_css": [
+        ".cart__checkout-button {background-color: white; color: black;}"
       ],
       "settings": {
       }
