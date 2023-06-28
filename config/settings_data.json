@@ -299,7 +299,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".gift-card__copy-button{background-color: white; color: black;}"
+      ".gift-card__copy-button {background-color: white; color: black;}",
+      "#HeaderMenu-MenuList-2 {background-color: black; background-blend-mode: difference;}"
     ]
   }
 }
