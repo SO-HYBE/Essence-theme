@@ -37,6 +37,53 @@
         "padding_bottom": 36
       }
     },
+    "a30fb16d-00e7-465b-9943-79eb6908110d": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19704890065206__a30fb16d-00e7-465b-9943-79eb6908110d-1687944045d7eaac0f-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jeans"
+          }
+        },
+        "template--19704890065206__a30fb16d-00e7-465b-9943-79eb6908110d-1687944045d7eaac0f-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shirts-1"
+          }
+        },
+        "template--19704890065206__a30fb16d-00e7-465b-9943-79eb6908110d-1687944045d7eaac0f-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes"
+          }
+        },
+        "f48ad717-9b7f-4e24-bfbf-12fa0f93a12b": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jackets"
+          }
+        }
+      },
+      "block_order": [
+        "template--19704890065206__a30fb16d-00e7-465b-9943-79eb6908110d-1687944045d7eaac0f-0",
+        "template--19704890065206__a30fb16d-00e7-465b-9943-79eb6908110d-1687944045d7eaac0f-1",
+        "template--19704890065206__a30fb16d-00e7-465b-9943-79eb6908110d-1687944045d7eaac0f-2",
+        "f48ad717-9b7f-4e24-bfbf-12fa0f93a12b"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -63,51 +110,11 @@
         "padding_top": 0,
         "padding_bottom": 68
       }
-    },
-    "a30fb16d-00e7-465b-9943-79eb6908110d": {
-      "type": "collection-list",
-      "blocks": {
-        "template--19704890065206__a30fb16d-00e7-465b-9943-79eb6908110d-1687944045d7eaac0f-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "jeans"
-          }
-        },
-        "template--19704890065206__a30fb16d-00e7-465b-9943-79eb6908110d-1687944045d7eaac0f-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "shirts-1"
-          }
-        },
-        "template--19704890065206__a30fb16d-00e7-465b-9943-79eb6908110d-1687944045d7eaac0f-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "shoes"
-          }
-        }
-      },
-      "block_order": [
-        "template--19704890065206__a30fb16d-00e7-465b-9943-79eb6908110d-1687944045d7eaac0f-0",
-        "template--19704890065206__a30fb16d-00e7-465b-9943-79eb6908110d-1687944045d7eaac0f-1",
-        "template--19704890065206__a30fb16d-00e7-465b-9943-79eb6908110d-1687944045d7eaac0f-2"
-      ],
-      "settings": {
-        "title": "Collections",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "b1a23e50-07e8-414e-8c0f-d6d981f8d87b",
-    "featured-collection",
-    "a30fb16d-00e7-465b-9943-79eb6908110d"
+    "a30fb16d-00e7-465b-9943-79eb6908110d",
+    "featured-collection"
   ]
 }
