@@ -82,6 +82,9 @@
         "template--19704890065206__a30fb16d-00e7-465b-9943-79eb6908110d-1687944045d7eaac0f-2",
         "f48ad717-9b7f-4e24-bfbf-12fa0f93a12b"
       ],
+      "custom_css": [
+        ".media{max-width: 250px; max-height: 250px;}"
+      ],
       "settings": {
         "title": "Collections",
         "heading_size": "h1",
