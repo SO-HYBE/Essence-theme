@@ -304,7 +304,8 @@
     "custom_css": [
       ".gift-card__copy-button {background-color: white; color: black;}",
       "#HeaderMenu-MenuList-2 {background-color: black; background-blend-mode: difference;}",
-      ".cart-notification {background-color: black;}"
+      ".cart-notification {background-color: black;}",
+      ".header--has-menu {background-color: black;}"
     ]
   }
 }
