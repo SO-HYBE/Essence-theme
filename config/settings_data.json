@@ -131,7 +131,7 @@
       "main-password-header": {
         "type": "main-password-header",
         "custom_css": [
-          "button{background-color: white; color: black;}"
+          ".password-button{background-color: white; color: black;}"
         ],
         "settings": {
           "color_scheme": "background-1"
