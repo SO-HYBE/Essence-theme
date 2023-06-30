@@ -305,7 +305,9 @@
       ".gift-card__copy-button {background-color: white; color: black;}",
       "#HeaderMenu-MenuList-2 {background-color: black; background-blend-mode: difference;}",
       ".cart-notification {background-color: black;}",
-      ".header__icon--menu[aria-expanded=\"true\"]:before {background: none;}"
+      ".header__icon--menu[aria-expanded=\"true\"]:before {background: none;}",
+      "#menu-drawer {height: 94vh;}",
+      ".header{background-color: black;}"
     ]
   }
 }
